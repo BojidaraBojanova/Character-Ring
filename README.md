@@ -32,7 +32,6 @@ The project scaffold includes a package.json file with common dependencies. The 
 **Resources:** The project resources, including the project scaffold and local REST service, are provided by [SoftUni](https://softuni.bg/).
 
 ## Application Requirements
-
 ### Navigation Bar
 - Implement a responsive NavBar with dynamic links based on user authentication status.
 
